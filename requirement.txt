@@ -1,0 +1,12 @@
+djangorestframework
+firebase-admin
+bson
+bcrypt
+pyyaml
+uritemplate
+coreapi
+stripe
+jinja2
+xhtml2pdf
+premailer
+openpyxl
