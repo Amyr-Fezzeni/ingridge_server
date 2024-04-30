@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure--5cxnwu_3f(!gkes_*my5ms$2xf_k9n8x$wy662n5p!vvba03%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["inbridge.pythonanywhere.com"]
+ALLOWED_HOSTS = ["inbridge.pythonanywhere.com", "127.0.0.1"]
 
 
 # Application definition
@@ -124,5 +124,5 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-EMAIL = "anotique@gmail.com"
-EMAIL_PASSWORD = "lxao kruf eelv ieqe"
+EMAIL = "inbridge.9antra@gmail.com"
+EMAIL_PASSWORD = "laxt nkts tlzc zyaz"

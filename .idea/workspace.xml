@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbc64bee-2b10-4a67-803b-513b1e7246d1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ingridge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ingridge.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="fbc64bee-2b10-4a67-803b-513b1e7246d1" name="Changes" comment="15.4.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/firebase_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/firebase_config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/services.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/services.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ingridge/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ingridge/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirement.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirement.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ingridge/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ingridge/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,11 +105,30 @@
       <workItem from="1712341537225" duration="20000" />
       <workItem from="1712362240010" duration="7000" />
       <workItem from="1713010438486" duration="20000" />
-      <workItem from="1713132421401" duration="3064000" />
+      <workItem from="1713132421401" duration="3253000" />
+      <workItem from="1713191743241" duration="8000" />
+      <workItem from="1713381170570" duration="1118000" />
+      <workItem from="1713606913698" duration="627000" />
+      <workItem from="1713693614825" duration="1000" />
+      <workItem from="1713818726644" duration="41000" />
+      <workItem from="1714502619346" duration="131000" />
     </task>
+    <task id="LOCAL-00001" summary="15.4.2">
+      <option name="closed" value="true" />
+      <created>1713159783424</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713159783424</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="15.4.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="15.4.2" />
   </component>
 </project>
